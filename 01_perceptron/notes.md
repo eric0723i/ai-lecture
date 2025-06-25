@@ -1,4 +1,5 @@
 #퍼셉트론
+---
 인공신경망을 구성하는 퍼셉트론
 순전파
 역전파
@@ -7,6 +8,7 @@
 자세한 건 pdf참고
 ---
 #perceptron
+---
 perceptron
 foward propagation
 back propagation
