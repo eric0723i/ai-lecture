@@ -1,6 +1,7 @@
 # AI-lecture
 
--AI,ML,DL 강의 슬라이드 모음
+###
+AI,ML,DL 강의 슬라이드 모음
 앞으로 계속 업데이트 할 예정입니다.
 코딩 동아리를 창설하고
 AI 강의를 기획하며 직접 강의하고 
@@ -20,6 +21,7 @@ AI 강의를 기획하며 직접 강의하고
 ---
 # AI-lecture
 
+###
 A collection of lecture slides on AI, ML, and DL.  
 This repository is continuously being updated.
 
