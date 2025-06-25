@@ -11,9 +11,9 @@ AI 강의를 기획하며 직접 강의하고
 ## 강의 목록
 | 월별 | 수업 주제 | 슬라이드 링크 | 노트 요약 | 실습 코드 |
 |------|------------|----------------|-------------|-------------|
-| 4월  | 퍼셉트론 및 신경망 기초 | [Pdf](/01_perceptron/slides.pdf) | [notes](./01_perceptron/notes.md) | - |
-| 5월  | RNN ~ Transformer 구조 | [Pdf](/02_rnn_to_transformer/slides.pdf) | [notes](./02_rnn_to_transformer/notes.md) | - |
-| 6월  | CNN과 이미지 분류 | [Pdf](/03_convolutional_nn/slides.pdf) | [notes](./03_convolutional_nn/notes.md) | - |
+| 4월  | 퍼셉트론 및 신경망 기초 | [Pdf](/01_perceptron/slides.pdf.pdf) | [notes](./01_perceptron/notes.md) | - |
+| 5월  | RNN ~ Transformer 구조 | [Pdf](/02_rnn_to_transformer/slides.pdf.pdf) | [notes](./02_rnn_to_transformer/notes.md) | - |
+| 6월  | CNN과 이미지 분류 | [Pdf](/03_cnn/slides.pdf.pdf) | [notes](./03_convolutional_nn/notes.md) | - |
 | .... | 강화학습 (예정) | 준비 중 | - | - |
 | .... | 트랜스포머 + LLM 구조 (예정) | 준비 중 | - | - |
 | .... | 생성형 AI (VAE, GAN, Diffusion) | 준비 중 | - | - |
