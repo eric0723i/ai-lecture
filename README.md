@@ -1,44 +1,26 @@
-# AI-lecture
+# AI Lecture
 
-# AI,ML,DL 강의 슬라이드 모음
-앞으로 계속 업데이트 할 예정입니다.
-코딩 동아리를 창설하고
-AI 강의를 기획하며 직접 강의하고 
-강의를 위해 공부하며 만든 슬라이드를 정리했습니다.
-슬라이드 중에서는 자체 제작한 것도 있지만 MIT를 비롯한 타 대학교 수업자료를 활용한 것도 있으니, 배포를 금합니다.
-오류가 있을 수 있으니 주의하시고 피드백은 환영입니다.
----
-## 강의 목록
-| 월별 | 수업 주제 | 슬라이드 링크 | 노트 요약 | 실습 코드 |
-|------|------------|----------------|-------------|-------------|
-| 4월  | 퍼셉트론 및 신경망 기초 | [Pdf](/01_perceptron/slides.pdf.pdf) | [notes](/01_perceptron/notes.md) | - |
-| 5월  | RNN ~ Transformer 구조 | [Pdf](/02_rnn_to_transformer/slides.pdf.pdf) | [notes](/02_rnn_to_transformer/notes.md) | - |
-| 6월  | CNN과 이미지 분류 | [Pdf](/03_cnn/slides.pdf.pdf) | [notes](/03_convolutional_nn/notes.md) | - |
-| .... | 강화학습 (예정) | 준비 중 | - | - |
-| .... | 트랜스포머 + LLM 구조 (예정) | 준비 중 | - | - |
-| .... | 생성형 AI (VAE, GAN, Diffusion) | 준비 중 | - | - |
----
-# AI-lecture
-
-# A collection of lecture slides on AI, ML, and DL.  
+A collection of lecture slides on AI, ML, and DL.  
 This repository is continuously being updated.
 
-I created these slides while founding a coding club, planning and delivering AI lectures,  
-and studying the topics in depth to teach others.  
-Some slides are fully self-made, but others are adapted or inspired by materials from top universities like MIT.  
-**Please do not redistribute or publish these slides, as some content is based on non-shareable sources.**  
-There may be inaccuracies, so feedback and corrections are always welcome!
+---
+
+## 소개
+
+- 이 슬라이드는 코딩 동아리를 창설하고 직접 AI 강의를 기획·진행하면서 공부하며 만든 자료입니다.
+- 일부는 직접 제작한 자료이고, 일부는 MIT 등 타 대학교 강의자료를 기반으로 재구성한 내용도 포함되어 있습니다.
+- **배포는 금지되며**, 개인 학습용으로만 열람 바랍니다.
+- 오류나 피드백은 언제든 환영합니다!
 
 ---
 
-## Lecture List
+## 강의 목록 (Lecture List)
 
-| Month | Topic | Slide Link | Notes | Code |
-|-------|----------------------------|-------------|--------|-------|
-| April | Perceptron and Neural Network Basics | [Pdf](/01_perceptron/slides.pdf.pdf) | [notes](/01_perceptron/notes.md) | - |
-| May   | RNN to Transformer Architecture | [Pdf](/02_rnn_to_transformer/slides.pdf.pdf) | [notes](/02_rnn_to_transformer/notes.md) | - |
-| June  | CNN and Image Classification | [Pdf](/03_cnn/slides.pdf.pdf) | [notes](/03_cnn/notes.md) | - |
-| TBD   | Reinforcement Learning | Coming soon | - | - |
-| TBD   | Transformer + LLMs | Coming soon | - | - |
-| TBD   | Generative AI (VAE, GAN, Diffusion) | Coming soon | - | - |
----
+| 월별 | 주제 (Topic) | 슬라이드 | 노트 요약 | 실습 코드 |
+|------|---------------|----------------------------|----------------------------|--------------|
+| 4월  | 퍼셉트론 및 신경망 기초<br>Perceptron and Neural Network Basics | [PDF](/01_perceptron/slides.pdf.pdf) | [Notes](/01_perceptron/notes.md) | - |
+| 5월  | RNN ~ Transformer 구조<br>RNN to Transformer Architecture | [PDF](/02_rnn_to_transformer/slides.pdf.pdf) | [Notes](/02_rnn_to_transformer/notes.md) | - |
+| 6월  | CNN과 이미지 분류<br>CNN and Image Classification | [PDF](/03_cnn/slides.pdf.pdf) | [Notes](/03_cnn/notes.md) | - |
+| .... | 강화학습 예정<br>Reinforcement Learning (Planned) | 준비 중 | - | - |
+| .... | 트랜스포머 + LLM<br>Transformer + LLMs (Planned) | 준비 중 | - | - |
+| .... | 생성형 AI<br>Generative AI (VAE, GAN, Diffusion) | 준비 중 | - | - |
