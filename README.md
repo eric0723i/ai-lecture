@@ -21,6 +21,7 @@ This repository is continuously being updated.
 | 4월  | 퍼셉트론 및 신경망 기초<br>Perceptron and Neural Network Basics | [PDF](/01_perceptron/slides.pdf.pdf) | [Notes](/01_perceptron/notes.md) | - |
 | 5월  | RNN ~ Transformer 구조<br>RNN to Transformer Architecture | [PDF](/02_rnn_to_transformer/slides.pdf.pdf) | [Notes](/02_rnn_to_transformer/notes.md) | - |
 | 6월  | CNN과 이미지 분류<br>CNN and Image Classification | [PDF](/03_cnn/slides.pdf.pdf) | [Notes](/03_cnn/notes.md) | - |
-| .... | 강화학습 예정<br>Reinforcement Learning (Planned) | 준비 중 | - | - |
+|7~8월 | 방학<br>vacation| 준비 중 | - | - |
+| .... | 강화학습 <br>Reinforcement Learning (Planned) | 준비 중 | - | - |
 | .... | 트랜스포머 + LLM<br>Transformer + LLMs (Planned) | 준비 중 | - | - |
 | .... | 생성형 AI<br>Generative AI (VAE, GAN, Diffusion) | 준비 중 | - | - |
